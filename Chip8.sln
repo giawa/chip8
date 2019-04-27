@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chip8", "Chip8.csproj", "{712F1E75-CE42-4844-AE27-3269C03C55D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712F1E75-CE42-4844-AE27-3269C03C55D1}.Debug|x64.ActiveCfg = Debug|x64
+		{712F1E75-CE42-4844-AE27-3269C03C55D1}.Debug|x64.Build.0 = Debug|x64
+		{712F1E75-CE42-4844-AE27-3269C03C55D1}.Release|x64.ActiveCfg = Release|x64
+		{712F1E75-CE42-4844-AE27-3269C03C55D1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20420C5-A13E-46B8-868D-A128B7DD622C}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
